@@ -1,4 +1,4 @@
-const Packchain = artifacts.require("Packchain");
+const Packchain = artifacts.require("PackChain");
 
 module.exports = function (deployer) {
   deployer.deploy(Packchain);
